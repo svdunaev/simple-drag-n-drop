@@ -51,3 +51,14 @@ body {
   height: 66px;
 }
 
+.hold {
+	border: 1px solid red;
+}
+
+.hide {
+	display: none;
+}
+
+.hovered {
+	border-top: solid 2px #B0A7DC;
+}
